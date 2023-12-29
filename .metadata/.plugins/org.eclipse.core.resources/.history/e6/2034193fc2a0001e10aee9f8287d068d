@@ -1,0 +1,19 @@
+package loops;
+
+public class ForLoop {
+	public static void main(String[] args) {
+
+//		print the number in order form 1 star to 5 star. 
+
+		int n = 5;
+
+		for (int i = 0; i < 5; i++) {
+			for (int j = i; j < i; j++) {
+				System.out.print("*");
+			}
+			System.out.println();
+		}
+
+	}
+
+}

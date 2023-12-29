@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;otherProgrammes&apos; to &apos;Arrayss_Strings&apos;&#x0D;&#x0A;- Original project: &apos;javaprogramms&apos;&#x0D;&#x0A;- Original element: &apos;javaprogramms/src/otherProgrammes&apos;&#x0D;&#x0A;- Renamed element: &apos;javaprogramms/src/Arrayss_Strings&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;otherProgrammes&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;otherProgrammes" name="Arrayss_Strings" qualified="false" references="true" stamp="1702383755941" textual="false" version="1.0"/>
+</session>
